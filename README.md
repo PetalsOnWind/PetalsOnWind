@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a fourth year undergraduate student at Indian Institute of Technology Kharagpur, 
+enrolled in Integrated MSc (BSc+MSc) in Economics.
+
+Fun fact: I am a big reader and read over 50 fictional books every year (and some
+non-fiction too!)
+
+I am looking for opportunities to up my skill set.
