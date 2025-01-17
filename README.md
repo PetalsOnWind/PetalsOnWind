@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fourth year undergraduate student at Indian Institute of Technology Kharagpur, 
-enrolled in Integrated MSc (BSc+MSc) in Economics.
+I am currently working as an Empirical Research Fellow at Kellogg School of Management in Quantitative Marketing. 
+
+Before starting this position, I graduated from 
+London School of Economics with MSc Econometrics and Mathematical Economics (2022-23) and 
+BSc (Hons) + MSc Economics from Indian Institute of Technology Kharagpur.
+
 
 Fun fact: I am a big reader and read over 50 fictional books every year (and some
 non-fiction too!)
