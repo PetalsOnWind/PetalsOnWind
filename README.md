@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently PhD student in Quant Marketing at University of Chicago Booth School of Business.
 
-I am currently working as an Empirical Research Fellow at Kellogg School of Management in Quantitative Marketing. 
+I was working as an Empirical Research Fellow at Kellogg School of Management in Quantitative Marketing. 
 
 Before starting this position, I graduated from 
 London School of Economics with MSc Econometrics and Mathematical Economics (2022-23) and 
